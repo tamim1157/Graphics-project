@@ -1,0 +1,49 @@
+﻿  main.cpp
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\basic_camera.h(92,9): warning C4068: unknown pragma 'oncea'
+  (compiling source file 'main.cpp')
+  
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\sphere.h(198,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\sphere.h(199,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\sphere.h(203,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\cylinder.h(205,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\cylinder.h(225,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\cylinder.h(227,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\cylinder.h(203,28): warning C4101: 'xz': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(531,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(532,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(596,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(602,30): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(609,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(615,30): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(623,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(629,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(685,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(686,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(586,124): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(586,101): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(3927,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(3927,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(4037,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(4037,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(4037,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(4278,44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(4278,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(4281,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(4292,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(4299,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(4300,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab_2_provided.vcxproj -> C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\x64\Debug\Lab_2_provided.exe
